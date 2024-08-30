@@ -19,6 +19,15 @@
       }
     },
     {
+      "type": "text",
+      "action": "add",
+      "args": {
+        "name": "antifilter-ipv6",
+        "uri": "https://antifilter.network/download/ip6.lst",
+        "onlyIPType": "ipv6"
+      }
+    },
+    {
       "type": "private",
       "action": "add"
     }
